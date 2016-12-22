@@ -81,7 +81,44 @@ When you arrive, pay the amount shows on the meter and say good bye. Then close 
 动作等，全部同步地用英文 仔细地叙述一遍，当时惊叹为理想的“可理解性输入”体系！只是没好意思介绍给周围人，怕他们说我拿他们开逗。
 
 ### 增长期(Getting Serious)
+
+TPR-O (TPR with Objects)
+
+大家在桌子上放一些生活中的实物（Objects），可以是随意找到的东西，比如apple和banana。然后教师让大家听与这些物品相关联 的动作和行为等的简单描述。 
+This is an apple. Where is apple? 用动作指出。做动作表示Smell it, bite it, give it to me, roll it, peel it等相关句子。TPR-O的关键是将表示动作的动词和实物名词相关联用动作表述。
+
+TPR-P (TPR with Pictures)
+
+教师用英语对一些照片或画面中的物品，人物，动作，情景等进行描述。这一方式有些象“看图听音”的进一步拓展。比如照片上一个男人在吃苹果。可 以从This is a man. 
+Where is the man? He is eating. What is he doing? He is eating an apple.等不断扩展，直到可以更复杂地对其他背景信息进行描述。比如穿的服装，年龄职业，周围环境等等。
+
+TPR-S (TPR with Stories)
+
+由Blaine Ray首先在教学中开发使用的该方法在美国学校中被广泛采用。主要方法是教师用学生基本可以理解的词汇，通过动作和道具表演一个简单的小故事。关键点是要生动和有趣。
+也可以先让学生熟悉故事内容以帮助理解，然后再开始表演。
+
+**需要建立外语思维： Able to think in the target language**
+
+**语言的掌握不是通过翻译和记忆，而是与思维，概念或图像建立直接联系：Through association, not translation or memorization**
+
+**语法的掌握是下意识的过程，不应该通过有意识地学习： An implicit subconscious learning process rather than explicit conscious learning or active instruction.**
+
+**关键是提供可理解输入条件：Comprehensive input i+1**
+
+A Sample Acquisition Cycle
+
+1. 先听整段原文，段落长短控制在正常速度10钟内放完。难度选择应该是控制在第一遍能听懂的程度是70%上下。不要看文字或字幕。这步的目的主要是先熟悉要学的内容或说是该内容的声音。
+2. 开始分句模仿跟读，每句约三遍，（听一遍跟一遍，不是听一遍读三遍）不懂的也跟读，别着急查意思。是否全对或是否全会不必太介意，可以看字幕但尽量不看，一边模仿，一边猜测不明白部分的含义。关键技巧是“猜测”。
+3. 不看字幕分句跟读一遍，把原声和自己读的声音都录下来。
+4. 放第3步的录音，努力听每句自己读的和原文有何区别并再次感受刚才的过程，可看字幕帮助核对。
+5. 分句自己先说，然后再听原文。第一次可看字幕，后两次尽量不看字幕。
+6. 自己回想该段剧情，试着复述说刚才每部分的句子。
+7. 如果有测试题，可以测试一下自己对上一段掌握的程度，还是80分就好。
+8. 下一段开始，重复上面同样的程序。
+
 ### 高级期(Scaling Everest)
+
+
 
 ## 第一课
 
