@@ -3,7 +3,9 @@
 - [艾琳的挑战](https://www.erin.ne.jp/zh/)
 - [最专业的学日文网站](https://www.jpmarumaru.com/tw/index.asp)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
+- [简明日语](https://www.nhk.or.jp/lesson/chinese/)
 - [多邻国](https://www.duolingo.com/)
+- [日语io](https://riyu.io/)
 
 ## 🎬 视频学习
 
