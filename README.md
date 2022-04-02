@@ -8,6 +8,7 @@
 ## 🎬 视频学习
 
 - [新标准日本语](https://www.youtube.com/channel/UCk5F0oYYOL80foRG8ixfH1g/playlists)
+- [日语之森](https://www.youtube.com/c/nihongonomori2013)
 
 ## 教程
 
