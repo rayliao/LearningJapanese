@@ -5,6 +5,7 @@
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
 - [简明日语](https://www.nhk.or.jp/lesson/chinese/)
 - [多邻国](https://www.duolingo.com/)
+- [memrise](https://app.memrise.com/)
 - [日语io](https://riyu.io/)
 
 ## 🎬 视频学习
