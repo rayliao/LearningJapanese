@@ -5,6 +5,10 @@
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
 - [多邻国](https://www.duolingo.com/)
 
+## 🎬 视频学习
+
+- [新标准日本语](https://www.youtube.com/channel/UCk5F0oYYOL80foRG8ixfH1g/playlists)
+
 ## 教程
 
 最近看了一篇讲如何学习外语的文章，讲得非常详细，刚好可以用于开始学日语。
