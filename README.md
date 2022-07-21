@@ -1,4 +1,4 @@
-#＃ 🇯🇵 LearningJapanese
+## 🇯🇵 LearningJapanese
 
 ### 🌍 全能
 
