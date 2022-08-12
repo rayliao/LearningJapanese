@@ -9,6 +9,7 @@
 - [多邻国](https://www.duolingo.com/)
 - [memrise](https://app.memrise.com/)
 - [日语io](https://riyu.io/)
+- [漫画学日语](https://anime-manga.jp/)
 
 ### 📚 辞典
 
@@ -20,8 +21,16 @@
 - [新标准日本语](https://www.youtube.com/channel/UCk5F0oYYOL80foRG8ixfH1g/playlists)
 - [日语之森](https://www.youtube.com/c/nihongonomori2013)
 
+### 📰 新闻
+
+- [NHK News Web EASY](https://www3.nhk.or.jp/news/easy/)
+- [简版 MATCHA](https://matcha-jp.com/easy)
+
 ### 📒　教程
 
+- [跨平台日语学习方案](https://blog.gimo.me/posts/learning-japanese-cross-platform/)
+- [Netflix 日区使用指南](https://blog.gimo.me/posts/setup-netflix-on-rk3328-tv-box/)
+- [#7：如果我们一定要遇见的话](https://riyu.io/independenceday/2018/8/13/7)
 - 50音图记忆：[如何快速有效地学习日语五十音？ - 战导的回答 - 知乎](https://www.zhihu.com/question/20318161/answer/53704368)
 
 ### 🕳️ その他
